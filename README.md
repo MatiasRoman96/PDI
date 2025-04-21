@@ -12,6 +12,7 @@ El material está organizado por clases y unidades temáticas:
 
 | Carpeta | Contenido |
 |--------|-----------|
+| `000 Introduccion imagenes` | Presentacion de caracteristicas generales de el analisis de imagenes. |
 | `001 Espacios de color` | Representación del color en imágenes: espacios RGB, HSV, mapas de color. |
 | `002 Muestreo y cuantización` | Reducción de tamaño y niveles de gris. Impacto visual de la compresión. |
 | `003 Segmentación por color` | Técnicas de segmentación básicas por color. |
