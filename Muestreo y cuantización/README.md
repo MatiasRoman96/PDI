@@ -1,7 +1,7 @@
 # 🧮 Muestreo Espacial y Cuantización de Imágenes
 
 **Fecha:** 21/04/2025  
-**Autor:** [Tu nombre acá]  
+**Autor:** Matias Roman 
 
 ---
 
