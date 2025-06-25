@@ -18,8 +18,14 @@ El material está organizado por clases y unidades temáticas:
 | `003 Segmentación por color` | Técnicas de segmentación básicas por color. |
 | `004 Trabajo Integrador` | Proyecto itermedio integrador del cuatrimestre. |
 | `005 Operaciones morfologicas` | Técnicas de procesamiento de imágenes. |
-| `006 Deteccion facial` | Deteccion faciales con openCV. |
+| `006 Deteccion facial` | Deteccion faciales con openCV y lbf model. |
 | `007 Landmarks` | Deteccion facial con landmarks con mediapipe. |
+| `008 Red neuronal` | Redes neuronales con tensorflow. |
+| `009 CNN` | Redes convulcionales. |
+| `010 Modelos pre entrenados` | Modelos con entrenamiento previo para hacer clasificacion. |
+| `011 Interfaz con Gradio` | Creacion de interfaz simple con Gradio. |
+| `012 TP Final` | Trabajo practico final integrador de toda la metria. |
+
 
 ---
 
