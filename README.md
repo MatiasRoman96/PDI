@@ -16,7 +16,10 @@ El material está organizado por clases y unidades temáticas:
 | `001 Espacios de color` | Representación del color en imágenes: espacios RGB, HSV, mapas de color. |
 | `002 Muestreo y cuantización` | Reducción de tamaño y niveles de gris. Impacto visual de la compresión. |
 | `003 Segmentación por color` | Técnicas de segmentación básicas por color. |
-| `004 Trabajo Integrador` | Proyecto final integrador del cuatrimestre. |
+| `004 Trabajo Integrador` | Proyecto itermedio integrador del cuatrimestre. |
+| `005 Operaciones morfologicas` | Técnicas de procesamiento de imágenes. |
+| `006 Deteccion facial` | Deteccion faciales con openCV. |
+| `007 Landmarks` | Deteccion facial con landmarks con mediapipe. |
 
 ---
 
